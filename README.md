@@ -1,2 +1,0 @@
-# cg.labbook
-capg assigments
